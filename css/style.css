@@ -4,5 +4,15 @@ body{
 }
     h1{text-align: center;}
     footer{text-align: center;}
+
     .container{max-width: 600px;
-    margin: 0 auto;}
+    margin: 0 auto;
+background-color: rgb(255, 172, 227);
+padding: 10px;
+border-radius: 10px;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);}
+
+select{width: 100%;
+    display: block;
+    padding: 10px;
+    border-radius: 10px;}
