@@ -59,5 +59,5 @@ document.getElementById("city-selector").addEventListener("change", function () 
   }
 });
 
-setInterval(updateTime, 5000);
+setInterval(updateTime, 9000);
 updateTime();
